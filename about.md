@@ -1,6 +1,6 @@
 ---
 layout: Hey there! It's pleasure to meet you
-title: TTechnology advertisement
+title: Technology advertisement
 ---
 
 ## About
